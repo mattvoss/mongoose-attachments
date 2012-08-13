@@ -16,7 +16,8 @@
     "async": "0.1.x",
     "knox": "0.1.x",
     "imagemagick": "0.1.x",
-    "aws2js": "0.7.x"
+    "aws2js": "0.7.x",
+    "libxml-to-js": "latest"
   },
   "devDependencies": {},
   "optionalDependencies": {},
