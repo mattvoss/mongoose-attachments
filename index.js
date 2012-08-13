@@ -25,7 +25,7 @@ require('./lib/providers/s3');
 
 require('./lib/providers/aws2js');
 
-require('./lib/providers/mongo-file');
+require('./lib/providers/mongofile');
 
 // Export the Plugin directory for Mongoose.js
 module.exports = attachments;
